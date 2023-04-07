@@ -12,17 +12,17 @@ global.headerText = "Anya by Pika" // text for header of menu
 global.DocumentTitle = "MASTER⚔️PIKA" 
 
 
-global.ownername = "𝕻𝖎𝖐𝖆♰𝕶𝖚𝖓"   // Owner name //        
-global.ownernumber = ['916900904828'] 
+global.ownername = "Sɳɾ Aʅιҽ"   // Owner name //        
+global.ownernumber = ['94773082069'] 
 global.socialm = "𝗜𝗻𝘀𝘁𝗮 : 3.69_pika" // 𝗜𝗻𝘀𝘁𝗮 : || 𝗚𝗶𝘁𝗵𝘂𝗯 : || 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 : \\
 global.ytname = "YT: Ytname"   // Yt chanel name //
 global.continent = "Asia" // your continent name 
-global.region = "India" // your country name
-global.state = "Assam" // your state name
-global.district = "Dibrugarh" // your district name
+global.region = "SriLankan" // your country name
+global.state = "JaEla" // your state name
+global.district = "Gampaha" // your district name
 global.timezone = "Asia/Kolkata" // search on google if you don't know the timezone of your country //
 global.instagramId = "3.69_pika" // Your insta ID
-global.email = "example@exmaple.com" // put your email here
+global.email = "pcbro1948@gmail.com" // put your email here
 
 
 //------------ 🌟 Premium Users 🌟-------------\\
